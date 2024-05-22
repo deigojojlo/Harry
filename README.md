@@ -5,5 +5,5 @@ qui peuvent contenir des inconnus
 pour utliser le programme il faudra installer ocaml 
 puis executer cette commande dans le terminal 
 
-```ocamlopt -o main Type.ml Stack.ml Harry.ml Main.ml && ./main```
+```ocamlopt -o main Stack.ml Harry.mli Harry.ml Main.ml && ./main```
 
